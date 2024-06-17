@@ -1,3 +1,8 @@
+Project Name: E-commerce website
+Name: Gabriella Toby
+Intern Manager: Connie Wu
+
+
 User Roles
 
 Seller: A user who lists secondhand items for sale on the platform.
