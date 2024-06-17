@@ -1,5 +1,7 @@
 User Roles
+
 Seller: A user who lists secondhand items for sale on the platform.
+
 Buyer: A user who browses and purchases secondhand items listed on the platform.
 
 User Personas
